@@ -60,7 +60,7 @@ main{
   width: 100%;
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  align-items: flex-end;
 }
 main{
   text-align: center;
@@ -95,7 +95,12 @@ nav ul{
 
 h1{
   font-size: 15rem;
-  -webkit-text-stroke: 1.5px rgb(211, 148, 0);
-  margin-right: 20rem;
+  -webkit-text-stroke: 1.5px rgb(148, 107, 13);
+  margin-right: 15rem;
+  margin-bottom: 10rem;
+  padding: 2rem;
   font-family: 'Tilt Prism', cursive;
+  background-color: rgba(0, 0, 0, 0.708);
+  border: 10px double rgb(148, 107, 13);
+  border-radius: 90%/20%;
 }
