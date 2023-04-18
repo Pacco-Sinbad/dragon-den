@@ -24,6 +24,7 @@
     font-size: 62.5%;
   }
   body {
+    background-image: url(images/bridge.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
